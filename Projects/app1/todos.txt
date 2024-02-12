@@ -1,0 +1,5 @@
+Clean
+run
+Sleep
+Wakeup
+Attend lecture
