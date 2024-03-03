@@ -1,5 +1,7 @@
-Clean
-run
+Washrun
 Sleep
 Wakeup
 Attend lecture
+Have breakfast
+Practice Python
+SprintJump
